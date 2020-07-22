@@ -24,8 +24,8 @@
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|NO|
-|[Japanese](https://en.wikipedia.org/wiki/Japanese_language) [Formal / Informal] |NO|
-|[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language) [Formal / Informal]|NO|
+|[Japanese](https://en.wikipedia.org/wiki/Japanese_language) |NO|
+|[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language) |NO|
 |[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|YES|
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|NO|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|NO|
