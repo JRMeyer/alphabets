@@ -13,7 +13,7 @@
 |[Danish](https://en.wikipedia.org/wiki/Danish_language)|NO|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|NO|
 |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|NO|
-|[English](https://en.wikipedia.org/wiki/English_language)|NO|
+|[English](https://en.wikipedia.org/wiki/English_language)|YES|
 |[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|NO|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|NO|
 |[French](https://en.wikipedia.org/wiki/French_language)|NO|
