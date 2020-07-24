@@ -18,7 +18,7 @@
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|NO|
 |[French](https://en.wikipedia.org/wiki/French_language)|NO|
 |[Georgian](https://en.wikipedia.org/wiki/Georgian_language)|NO|
-|[German](https://en.wikipedia.org/wiki/German_language)|NO|
+|[German](https://en.wikipedia.org/wiki/German_language)|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|NO|
 |[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|NO|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|NO|
