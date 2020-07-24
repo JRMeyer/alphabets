@@ -40,7 +40,7 @@
 |[Russian](https://en.wikipedia.org/wiki/Russian_language)|NO|
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|NO|
 |[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|NO|
-|[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|NO|
+|[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|YES|
 |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|NO|
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|NO|
 |[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|NO|
